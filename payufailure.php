@@ -1,4 +1,5 @@
 <?php
+$uid="12";
 $status=$_POST["status"];
 $firstname=$_POST["firstname"];
 $amount=$_POST["amount"];
